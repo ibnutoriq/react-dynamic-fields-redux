@@ -1,0 +1,27 @@
+{
+  "name": "react-dynamic-fields-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnutoriq/react-dynamic-fields-redux.git"
+  },
+  "keywords": [
+    "dynamic field",
+    "dynamic form",
+    "react field",
+    "react form"
+    "react",
+    "redux"
+  ],
+  "author": "Ibnu Toriq <ibnutoriq@gmail.com> (https://www.linkedin.com/in/ibnutoriq/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibnutoriq/react-dynamic-fields-redux/issues"
+  },
+  "homepage": "https://github.com/ibnutoriq/react-dynamic-fields-redux#readme"
+}
